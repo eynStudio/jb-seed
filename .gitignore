@@ -1,0 +1,4 @@
+node_modules
+dist
+static
+yarn-error.log
